@@ -18,7 +18,7 @@
     "debug": "^2.2.0",
     "ee-first": "^1.1.1",
     "inherits": "^2.0.1",
-    "fresh": "^0.3.0",
+    "fresh": "^0.5.2",
     "destroy": "^1.0.4",
     "media-typer": "^0.3.0",
     "forwarded": "^0.1.0",
